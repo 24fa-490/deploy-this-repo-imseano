@@ -26,6 +26,6 @@
 
 # Where am I deployed?
 
-<[Vercel](https://deploy-this-repo-imseano-1pihur94s-imseanos-projects.vercel.app)>
+<[Vercel](https://deploy-this-repo-imseano.vercel.app/)>
 
 
